@@ -2,8 +2,12 @@
 Please see our publication in Bioinformatics:
 Z Niu, D Chasman, AJ Eisfeld, Y Kawaoka, S Roy. 2016. Multi-task consensus clustering of genome-wide transcriptomes from related biological conditions. Bioinformatics 32 (10), 1509-1517. https://doi.org/10.1093/bioinformatics/btw007
 
+This code is designed to be run AFTER producing the original Arboretum results for several random initializations on the input data.
 
-There are 2 steps to do the consensus clustering.
+For more information about Arboretum, please see Roy et al, Genome Research 2013 (http://genome.cshlp.org/content/23/6/1039.full).
+
+
+## There are 2 steps to do the consensus clustering on the results from separate inits of Arboretum.
 *********************************************************
 1. compute eigen vector for similarity matrix. => Eigen
 This code is included in EigenVector. We included executable program(Eigen) and an example of usage (runEigen.sh).
@@ -36,6 +40,4 @@ k: number of clusters
 tree: tree structure of viruses describing their relationship
 initial_clusters: initial cluster assignments
 
-*NOTE: 
-for more information about Arboretum, please refer Arboretum paper.
 
