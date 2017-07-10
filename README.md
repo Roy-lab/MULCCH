@@ -1,3 +1,8 @@
+# Source code for MULCCH: Multi-task consensus clustering
+Please see our publication in Bioinformatics:
+Z Niu, D Chasman, AJ Eisfeld, Y Kawaoka, S Roy. 2016. Multi-task consensus clustering of genome-wide transcriptomes from related biological conditions. Bioinformatics 32 (10), 1509-1517. https://doi.org/10.1093/bioinformatics/btw007
+
+
 There are 2 steps to do the consensus clustering.
 *********************************************************
 1. compute eigen vector for similarity matrix. => Eigen
