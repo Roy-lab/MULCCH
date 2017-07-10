@@ -1,0 +1,6 @@
+H1N1	initClusters/H1N1_clusterassign.txt	EigenVector_output/H1N1_A.txt
+NL	initClusters/NL_clusterassign.txt	EigenVector_output/NL_B.txt
+PB2-627E	initClusters/PB2-627E_clusterassign.txt	EigenVector_output/PB2-627E_C.txt
+NS1trunc124	initClusters/NS1trunc124_clusterassign.txt	EigenVector_output/NS1trunc124_D.txt
+H5N1	initClusters/H5N1_clusterassign.txt	EigenVector_output/H5N1_E.txt
+PB1-F2del	initClusters/PB1-F2del_clusterassign.txt	EigenVector_output/PB1-F2del_F.txt

@@ -1,0 +1,11 @@
+H1N1	left	Anc1
+NL	right	Anc1
+PB2-627E	left	Anc2
+NS1trunc124	right	Anc2
+Anc1	left	Anc4
+Anc2	right	Anc4
+H5N1	left	Anc3
+PB1-F2del	right	Anc3
+Anc4	left	Anc5
+Anc3	right	Anc5
+
